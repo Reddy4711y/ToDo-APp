@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  font-family: "Hedvig Letters Serif", serif;
+  background-color: #dce7ea;
+}
+
+.show {
+  text-align: center;
+  margin: 10% auto;
+}
+.form-head {
+  margin-top: 20px;
+}
+.form-head input {
+  border-radius: 3.5px;
+  border-color: rgba(240, 248, 255, 0.81);
+}
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+.button-field button {
+  margin-top: 30px;
+  border-radius: 2px;
+  border-color: aqua;
+}
